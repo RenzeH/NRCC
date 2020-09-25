@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 4725 2355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 4725 2448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-3665.68,-3107.02)">
-        <g id="Artboard3" transform="matrix(1.60218,0,0,1.3526,-2288.02,2664.91)">
+        <g id="Artboard3" transform="matrix(1.60218,0,0,1.40644,-2288.02,2647.32)">
             <rect x="3716" y="326.854" width="2948.74" height="1740.54" style="fill:none;"/>
             <clipPath id="_clip1">
                 <rect x="3716" y="326.854" width="2948.74" height="1740.54"/>
             </clipPath>
             <g clip-path="url(#_clip1)">
-                <g transform="matrix(0.767901,0,0,0.968508,3716,68.5857)">
+                <g transform="matrix(0.767901,0,0,0.931433,3716,78.4722)">
                     <rect x="0" y="266.667" width="3840" height="1921" style="fill:white;"/>
                 </g>
-                <g transform="matrix(1,0,0,1.00338,-27.8814,-158.174)">
+                <g transform="matrix(1,0,0,0.964966,-27.8814,-75.3428)">
                     <g transform="matrix(0.663974,0,0,0.783843,3739.81,-297.953)">
                         <g transform="matrix(292.986,0,0,292.986,475.106,1500.14)">
                             <path d="M0.577,-0.712L0.471,-0L0.375,-0L0.297,-0.462L0.295,-0.462L0.218,-0L0.122,-0L0.016,-0.712L0.124,-0.712L0.175,-0.26L0.177,-0.26L0.257,-0.712L0.335,-0.712L0.418,-0.249L0.42,-0.249L0.469,-0.712L0.577,-0.712Z" style="fill-rule:nonzero;"/>
@@ -746,7 +746,7 @@
                         </g>
                     </g>
                 </g>
-                <g transform="matrix(0.819477,0,0,0.875958,1092.67,206.084)">
+                <g transform="matrix(0.819477,0,0,0.842427,1091.63,211.046)">
                     <g transform="matrix(1.71128,0,0,1.89634,5607.69,1805.79)">
                         <g transform="matrix(1,0,0,1,-120,-162)">
                             <clipPath id="_clip2">
