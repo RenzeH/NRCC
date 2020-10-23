@@ -44,6 +44,30 @@
 </head>
 
 <body>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v8.0'
+        });
+      };
+
+      (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/zh_TW/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Your Chat Plugin code -->
+    <div class="fb-customerchat"
+      attribution=setup_tool
+      page_id="120603439774950"
+theme_color="#ffc300">
+    </div>
     <nav class="navbar navbar-light navbar-expand-md navigation-clean-search" style="background-color: rgb(255,255,255);padding-top: 25px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;">
         <div class="container"><a class="bounce animated" href="index.html" style="background-image: url(&quot;assets/img/募資社logo.svg&quot;);height: 50px;width: 50px;"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1" style="/*color: rgba(136,136,136,0);*/filter: blur(0px) saturate(100%);/*border: double 1px;*/"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
