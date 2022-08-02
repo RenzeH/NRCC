@@ -1,6 +1,4 @@
-# NRCC
-
-# NCTU Rewards Crowdfunding Club
+# [NRCC]NCTU Rewards Crowdfunding Club
 
 WELCOME TO THE NCTU Rewards Crowdfunding Club
 
